@@ -139,38 +139,58 @@ It also applies priority rules for conflicting signals:
 > Add your screenshots in this section. You can upload them to GitHub and use the resulting image URLs, or store them in a `docs/screenshots/` directory inside your repository.
 
 ### Landing Page
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133535" src="https://github.com/user-attachments/assets/72e7c598-a920-4bc3-9d67-bc683838c0f6" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133554" src="https://github.com/user-attachments/assets/8deb6e88-65de-47d7-ad06-69dcd1a7026c" />
 
-<!-- ![Jal Drishti Landing Page](docs/screenshots/landing-page.png) -->
+
 
 ### Login and Signup
+<img width="998" height="830" alt="image" src="https://github.com/user-attachments/assets/b8ac74c6-097e-4f94-ae95-f96230e2721e" />
 
-<!-- ![Login Page](docs/screenshots/login.png) -->
-
-<!-- ![Signup Page](docs/screenshots/signup.png) -->
 
 ### Executive Dashboard
 
-<!-- ![Executive Dashboard](docs/screenshots/dashboard.png) -->
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133657" src="https://github.com/user-attachments/assets/0ec07f7e-10f6-4299-b5ec-10e0d3a8a87c" />
+
+
+
 
 ### Interactive Risk Map
 
-<!-- ![Interactive Risk Map](docs/screenshots/risk-map.png) -->
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133722" src="https://github.com/user-attachments/assets/bcd1e37b-9847-490e-8d39-8d670deea3e5" />
 
 ### Immediate Actions and Emergency SOS
 
-<!-- ![Immediate Actions and SOS](docs/screenshots/immediate-actions.png) -->
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133753" src="https://github.com/user-attachments/assets/31732938-95a8-41aa-ad7b-e68babbb110e" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134039" src="https://github.com/user-attachments/assets/234c40c7-b97c-4678-b43d-81a70d59074b" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134027" src="https://github.com/user-attachments/assets/44bda788-059d-43e1-bc66-3a4ad00ac3b9" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134009" src="https://github.com/user-attachments/assets/a97c9c29-2153-4d5b-9903-ffc37f1afc11" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133948" src="https://github.com/user-attachments/assets/b8fd9963-c736-4165-93aa-b93e37e1ce59" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133912" src="https://github.com/user-attachments/assets/92345f84-7202-47eb-88d1-94aace708793" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 133822" src="https://github.com/user-attachments/assets/64825365-3490-4d87-8d8f-12ba740de290" />
+
+
 
 ### FFEWS Analytics
 
-<!-- ![FFEWS Analytics](docs/screenshots/analytics.png) -->
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134346" src="https://github.com/user-attachments/assets/8c815789-2b8e-4d6f-9558-95df7a383304" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134332" src="https://github.com/user-attachments/assets/21a839ea-2b39-4705-8ab6-d66ddf9431c7" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134323" src="https://github.com/user-attachments/assets/895b317f-8bc0-4269-a4f0-5c532e437706" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134314" src="https://github.com/user-attachments/assets/0fa4894d-73bd-4903-a748-4836576002cd" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134208" src="https://github.com/user-attachments/assets/d467da39-4830-4885-be5e-e12705b71903" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134153" src="https://github.com/user-attachments/assets/94430ff7-1f6d-43f1-a406-17b348d9c1bf" />
 
-### River Gauge Monitoring
 
-<!-- ![River Gauge Monitoring](docs/screenshots/monitoring.png) -->
+
+### Historical Data
+
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134346" src="https://github.com/user-attachments/assets/019ccee0-0a56-43bc-8f3a-155932789857" />
+
 
 ### 3D Terrain Visualization
 
-<!-- ![3D Terrain Visualization](docs/screenshots/terrain.png) -->
+<img width="1920" height="1080" alt="Screenshot 2026-10-22 134400" src="https://github.com/user-attachments/assets/91193bc9-44fd-44cb-b887-91bcb11979fe" />
+
 
 ---
 
